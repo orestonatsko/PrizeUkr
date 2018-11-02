@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ua.com.info.common"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <application>
+        <activity
+            android:name="ua.com.info.common.ReconnectMessage"
+            android:excludeFromRecents="true"
+            android:theme="@style/DialogTheme" />
+        <activity
+            android:name="ua.com.info.common.ErrorMessage"
+            android:theme="@style/DialogTheme" />
+        <activity
+            android:name="ua.com.info.common.QuestionMessage"
+            android:theme="@style/DialogTheme" />
+        <activity
+            android:name="ua.com.info.common.InfoMessage"
+            android:theme="@style/DialogTheme" />
+    </application>
+
+</manifest>

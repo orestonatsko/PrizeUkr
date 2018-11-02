@@ -1,0 +1,230 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [:sqldb] D:\Past Projects\PrizeUkr\sqldb\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-27:12
+MERGED from [:data] D:\Past Projects\PrizeUkr\data\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0b41964e7fea8c6c2b4b03960b3d9b4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebddfde345ff3434412fa2b12a088a54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\419ba977553d4eda03c61f63ff20ef89\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d98387f7c7660f45629d21c75a26a7a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9a1ce773c046c7cfe9338eb171f4fdd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\896db303d0a967d3195b6f6954f69d82\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\dd1cc73460ec9e7d4ac5f7d8a1084e1d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\615b5c62ec2231703a78e7094adc802c\AndroidManifest.xml:17:1-22:12
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\d975b6eeb9a6e4c7012f8e08a142d8e4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f7c60300a5ada7ba26ecbc675f228f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6eb3873b3e1f28ddded5b5b1cd09fe7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7003e85d6200fab441d583ead6f5a1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba6dbaffd4a6ff02e840a50965c0564f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\05dd75042ac41659ebb9efc6ac562ab0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e369ceb62fcacde77a108e5b7634dc46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0093bcf9169c019f5a438e3ef09628de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f6e6c602bc791e59dc4a44f95a6093d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\0060ec5b1137f8065dc15d940285e3d4\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ab719f1e1b88ced431a5443818c2210\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\303f338b2c5e1987d0888e1614745595\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fc39a07aa09c4cbbbd1577f2c72968e8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07db795d6da292a5306c729f8797e85f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:1-46:12
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:8:5-44:19
+MERGED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-25:19
+MERGED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\419ba977553d4eda03c61f63ff20ef89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\419ba977553d4eda03c61f63ff20ef89\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\896db303d0a967d3195b6f6954f69d82\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\896db303d0a967d3195b6f6954f69d82\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\dd1cc73460ec9e7d4ac5f7d8a1084e1d\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\dd1cc73460ec9e7d4ac5f7d8a1084e1d\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\0060ec5b1137f8065dc15d940285e3d4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\0060ec5b1137f8065dc15d940285e3d4\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:11:9-36
+	android:allowBackup
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:9:9-28
+activity#ua.com.info.prize.PrizeMainActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:16:9-28:20
+	android:launchMode
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:18:13-44
+	android:windowSoftInputMode
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:19:13-56
+	android:theme
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:17:13-46
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:21:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:22:25-66
+action#android.intent.action.VIEW
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:26:27-74
+activity#ua.com.info.prize.CardRegistrationActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:29:9-62
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:29:19-59
+activity#ua.com.info.prize.CardCheckedActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:30:9-32:80
+	android:windowSoftInputMode
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:32:13-77
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:31:13-48
+activity#ua.com.info.prize.PrizeDetailsActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:33:9-58
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:33:19-55
+activity#ua.com.info.prize.DialogParticipationActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:34:9-37:50
+	android:excludeFromRecents
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:36:13-46
+	android:theme
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:35:13-56
+activity#ua.com.info.prize.MyOfficeActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:38:9-40:61
+	android:theme
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:39:13-45
+activity#ua.com.info.prize.LoginActivity
+ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:41:9-43:58
+	android:windowSoftInputMode
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:43:13-55
+	android:name
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml:42:13-42
+uses-sdk
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+MERGED from [:sqldb] D:\Past Projects\PrizeUkr\sqldb\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:sqldb] D:\Past Projects\PrizeUkr\sqldb\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:data] D:\Past Projects\PrizeUkr\data\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:data] D:\Past Projects\PrizeUkr\data\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0b41964e7fea8c6c2b4b03960b3d9b4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0b41964e7fea8c6c2b4b03960b3d9b4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebddfde345ff3434412fa2b12a088a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebddfde345ff3434412fa2b12a088a54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\419ba977553d4eda03c61f63ff20ef89\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\419ba977553d4eda03c61f63ff20ef89\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d98387f7c7660f45629d21c75a26a7a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d98387f7c7660f45629d21c75a26a7a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9a1ce773c046c7cfe9338eb171f4fdd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\9a1ce773c046c7cfe9338eb171f4fdd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\896db303d0a967d3195b6f6954f69d82\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\896db303d0a967d3195b6f6954f69d82\AndroidManifest.xml:7:5-43
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\dd1cc73460ec9e7d4ac5f7d8a1084e1d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\dd1cc73460ec9e7d4ac5f7d8a1084e1d\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\615b5c62ec2231703a78e7094adc802c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\615b5c62ec2231703a78e7094adc802c\AndroidManifest.xml:20:5-44
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\d975b6eeb9a6e4c7012f8e08a142d8e4\AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\circleindicator-1.2.2.aar\d975b6eeb9a6e4c7012f8e08a142d8e4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f7c60300a5ada7ba26ecbc675f228f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f7c60300a5ada7ba26ecbc675f228f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6eb3873b3e1f28ddded5b5b1cd09fe7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6eb3873b3e1f28ddded5b5b1cd09fe7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7003e85d6200fab441d583ead6f5a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d7003e85d6200fab441d583ead6f5a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba6dbaffd4a6ff02e840a50965c0564f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba6dbaffd4a6ff02e840a50965c0564f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\05dd75042ac41659ebb9efc6ac562ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\05dd75042ac41659ebb9efc6ac562ab0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e369ceb62fcacde77a108e5b7634dc46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e369ceb62fcacde77a108e5b7634dc46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0093bcf9169c019f5a438e3ef09628de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0093bcf9169c019f5a438e3ef09628de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f6e6c602bc791e59dc4a44f95a6093d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f6e6c602bc791e59dc4a44f95a6093d\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\0060ec5b1137f8065dc15d940285e3d4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\0060ec5b1137f8065dc15d940285e3d4\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ab719f1e1b88ced431a5443818c2210\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0ab719f1e1b88ced431a5443818c2210\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\303f338b2c5e1987d0888e1614745595\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\303f338b2c5e1987d0888e1614745595\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fc39a07aa09c4cbbbd1577f2c72968e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fc39a07aa09c4cbbbd1577f2c72968e8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07db795d6da292a5306c729f8797e85f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OREST\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\07db795d6da292a5306c729f8797e85f\AndroidManifest.xml:20:5-44
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		ADDED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+		INJECTED from D:\Past Projects\PrizeUkr\prize\src\main\AndroidManifest.xml
+activity#ua.com.info.common.ReconnectMessage
+ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:9-15:50
+	android:excludeFromRecents
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:13-63
+activity#ua.com.info.common.ErrorMessage
+ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:9-18:50
+	android:theme
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:13-59
+activity#ua.com.info.common.QuestionMessage
+ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:9-21:50
+	android:theme
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:13-62
+activity#ua.com.info.common.InfoMessage
+ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:9-24:50
+	android:theme
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:13-47
+	android:name
+		ADDED from [:common] D:\Past Projects\PrizeUkr\common\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:23:13-58

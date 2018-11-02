@@ -1,0 +1,4 @@
+#Sat Nov 03 00:26:15 EET 2018
+base.0=D\:\\Past Projects\\PrizeUkr\\prize\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="app_background">#d9dada</color>
+    <color name="app_panel">#217a88</color>
+    <color name="black">#000000</color>
+    <color name="black_light">#8f000000</color>
+    <color name="info">#fdfcea</color>
+    <color name="msg_background">#b2b2ff</color>
+    <color name="panel">#053eca</color>
+    <color name="primary_dark_material_light" ns1:override="true">#181f96</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="ButtonMenu">
+        <attr format="dimension" name="itemHeight"/>
+        <attr format="dimension" name="fontSize"/>
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="date_with_time_width">155dp</dimen>
+    <dimen name="list_view_item_vertical_padding">8dp</dimen>
+    <dimen name="logo_height">64dp</dimen>
+    <dimen name="logo_width">64dp</dimen>
+    <dimen name="main_menu_tile_height">140dp</dimen>
+    <dimen name="main_menu_tile_width">250dp</dimen>
+    <dimen name="text_view_field_vertical_padding">8dp</dimen>
+    <dimen name="width_quantity">100dp</dimen>
+    <string name="app_name">common</string>
+    <string name="connectDB">Під\'єднання до сервера…</string>
+    <string name="dialog_cancel">Скасувати</string>
+    <string name="dialog_message">Відсутній зв`язок з базою даних</string>
+    <string name="dialog_no">Ні</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_repeat">Повторити</string>
+    <string name="dialog_yes">Так</string>
+    <string name="document_image">Документ</string>
+    <string name="error_message">Помилка!</string>
+    <string name="info">info mark</string>
+    <string name="info_message">Інформація!</string>
+    <string name="item_icon">Зображення</string>
+    <string name="question">question mark</string>
+    <string name="question_message">Some question</string>
+    <string name="report_image">Звіт</string>
+    <string name="user">Користувач:</string>
+    <string name="warning">exclamation_mark</string>
+    <style name="ActionButtonStyle" parent="@style/Widget.AppCompat.ActionButton">
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingStart">0dip</item>
+        <item name="android:paddingEnd">0dip</item>
+    </style>
+    <style name="Buttons">
+        <item name="android:gravity">center</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+    <style name="Dialog" parent="Theme.AppCompat.Light">
+        <!--<item name="android:windowNoTitle">false</item>-->
+    </style>
+    <style name="DialogButton" parent="Widget.AppCompat.Button.Borderless">
+    <item name="android:textColor">@color/app_panel</item>
+    <item name="android:textSize">17sp</item>
+</style>
+    <style name="DialogTheme" parent="@style/Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/app_panel</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:colorButtonNormal">@color/app_panel</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="buttonStyle">@style/DialogButton</item>
+</style>
+    <style name="Ids" parent="Theme.AppCompat.Light">
+        <item name="actionButtonStyle">@style/ActionButtonStyle</item>
+    </style>
+    <style name="MainMenu">
+        <!--<item name="android:background">#ff10044d</item>-->
+        <!--<item name="android:textColor">#ffffffff</item>-->
+    </style>
+    <style name="MainMenuItem" parent="Base.TextAppearance.AppCompat.Large">
+        <item name="android:background">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+    <style name="ProgressBarTheme" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/app_panel</item>
+    </style>
+    <style name="Widget.ActionBar" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        <item name="contentInsetStart">4dp</item>
+    </style>
+    <style name="logo">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="menuText" parent="@android:style/TextAppearance.Medium.Inverse"/>
+</resources>
