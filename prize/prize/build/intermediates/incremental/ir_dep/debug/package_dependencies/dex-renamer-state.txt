@@ -1,4 +1,0 @@
-#Wed Oct 10 16:39:41 EEST 2018
-base.0=D\:\\Kotlin\\IDS\\prize\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-path.0=classes.dex
-renamed.0=classes.dex
